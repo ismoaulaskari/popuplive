@@ -1,0 +1,5 @@
+.config
+.npm
+node_modules
+loki
+.pwd
