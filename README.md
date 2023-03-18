@@ -1,6 +1,9 @@
 Popuplive
 <pre>
 Minimal server that publishes posted files
+and a form to use to post those files 
+at the same location(so res.files should 
+never be undefined).
 
 
 Possible apache reverse proxy conf:
